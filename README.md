@@ -2,6 +2,11 @@
 
 ## Submission for Microsoft Engage Program 2021
 
+### Project Link : https://meetify-a0446.firebaseapp.com/
+### Agile Methodology : https://trello.com/b/li8YUADV/meetify
+### Presentation Link : https://bit.ly/meetify
+### Video Demo : https://bit.ly/meetify-ppt
+
 ## Tech Stack
 
  - Reactjs
@@ -46,6 +51,6 @@ $ yarn start
 ```
 
 <p align="center">
-	With :heart: &nbsp;by <a href="#" target="_blank">Kanupriya</a>
+	With :heart: &nbsp;by <a href="#" target="_blank">Manasvi Alimchandani</a>
 </p>
 
